@@ -1,7 +1,7 @@
 # Parcial2ISO2
 Nicolas Alberto Cuellar Castrellon 2220906
 
-El motivos de mis decisiones para la elección de los patrones y el antipatrón así como la
+El motivo de mis decisiones para la elección de los patrones y el antipatrón así como la
 arquitectura, se basa en:
 
 1. Patrón Singleton – DatabaseConnection
@@ -35,6 +35,4 @@ arquitectura, se basa en:
     Esto facilita su desarrollo inicial, pero demuestra las limitaciones para escalar, desacoplar o mantener un sistema a largo plazo.
 
 Todas estas decisiones se hicieron tomando en cuenta las exposiciones y archivos presentes en la carpeta "Material de clase" compartida en Drive.
-
-    Representa un enfoque "todo en uno" que refuerza el objetivo pedagógico del proyecto: observar claramente el impacto de las decisiones arquitectónicas.
 
